@@ -1,11 +1,5 @@
 # depslib dependency file v1.0
-1431537115 source:c:\users\pedro\desktop\trabalhos_meu\cripto\main.c
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-	<string.h>
-
-1480966882 source:f:\codigos_cifras\cripto\main.c
+1483718568 source:c:\users\pedro costa\google drive\personal_projects\crypt_transposition-master\crypt_transposition-master\cripto\main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
